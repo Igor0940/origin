@@ -1,0 +1,3 @@
+*.html_old
+tmp/
+*.DS_Store
